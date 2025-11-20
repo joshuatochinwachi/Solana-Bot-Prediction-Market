@@ -1,0 +1,4 @@
+query_id,data,last_updated,status
+4897401,"lifetime_volume_usd,lifetime_fees_usd,seven_day_volume_usd,seven_day_fees_usd
+1.0357554175070724e+09,8.032262064548893e+06,1.9041037038852242e+06,15891.823734931624
+",2025-11-20T10:30:06.509162,success
